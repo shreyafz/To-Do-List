@@ -22,6 +22,10 @@ This is a simple and user-friendly to-do list application built with HTML, CSS, 
 - CSS
 - JavaScript
 
+### Here's a screenshot of the to-do list application in action, showcasing the ability to create and manage tasks.
+![image](https://github.com/shreyafz/To-Do-List/assets/146700826/a9245f07-37d8-44ed-ad7a-2c304d92f042)
+
+
 ## Feel free to:
 - Customize the styles in main.css to match your preferences.
 - Extend the functionality by adding features like editing or deleting tasks.

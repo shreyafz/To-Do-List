@@ -1,4 +1,4 @@
-# To-Do-List
+# 📋To-Do-List
 This is a simple and user-friendly to-do list application built with HTML, CSS, and JavaScript. It allows you to manage your tasks, categorize them (business/personal), and store them using LocalStorage for persistence.
 
 ## Features:
